@@ -26,7 +26,7 @@
 
 <br>
 
-<!-- 1. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA - ÜSTE TAŞINDI) -->
+<!-- 1. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA) -->
 <h3 align="center">🌐 SECURE COM-LINK</h3>
 <p align="center">
   <a href="https://linkedin.com/in/info-barisdemir" target="_blank">
@@ -45,7 +45,7 @@
 <!-- 2. İSTATİSTİK VE STREAK KARTLARI YAN YANA -->
 <h3 align="center">⚡ LIVE METRICS & STREAK</h3>
 <p align="center">
-  <!-- Sol: Ana İstatistik ve Rank Kartı -->
+  <!-- Sol: Ana İstatistik ve Rank Kartı (Cache düzeltmesiyle) -->
   <a href="https://github.com/barisThemir">
     <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&cache_seconds=86400&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
   </a>
@@ -68,6 +68,10 @@
 <br>
 
 <hr style="border: 1px dashed #00FF99;">
+<!-- YENİ: Stabil Ziyaretçi Sayacı (Visitor Count) -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=barisThemir.barisThemir" alt="Visitor Count"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/SECURE_CONNECTION-ESTABLISHED-00FF99?style=for-the-badge&logo=awesomewm&logoColor=black" alt="System Secured" />
 </p>
