@@ -26,30 +26,7 @@
 
 <br>
 
-<!-- 1. GERÇEK ZAMANLI KODLAMA HIZI VE SÜRELERİ -->
-<h3 align="center">⚡ LIVE DIAGNOSTICS & RANK</h3>
-<p align="center">
-  <a href="https://github.com/barisThemir">
-    <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
-  </a>
-  <a href="https://github.com/barisThemir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barisThemir&theme=radical&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff" alt="Profile Details" width="48%" />
-  </a>
-</p>
-
-<br>
-
-<!-- 2. HAREKETLİ YÜKSELEN SERİLER (STREAK) -->
-<h3 align="center">🔥 COMMIT STREAK</h3>
-<p align="center">
-  <a href="https://github.com/barisThemir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisThemir&theme=radical&border_radius=10&background=0D0D15&title=00FF99&ring=ff007f&fire=00FF99&hide_border=true" alt="GitHub Streak" width="100%" />
-  </a>
-</p>
-
-<br>
-
-<!-- 3. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA) -->
+<!-- 1. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA - ÜSTE TAŞINDI) -->
 <h3 align="center">🌐 SECURE COM-LINK</h3>
 <p align="center">
   <a href="https://linkedin.com/in/info-barisdemir" target="_blank">
@@ -65,7 +42,22 @@
 
 <br>
 
-<!-- 4. TERMINAL BROADCAST (DİNAMİK MESAJLAR) -->
+<!-- 2. İSTATİSTİK VE STREAK KARTLARI YAN YANA -->
+<h3 align="center">⚡ LIVE METRICS & STREAK</h3>
+<p align="center">
+  <!-- Sol: Ana İstatistik ve Rank Kartı -->
+  <a href="https://github.com/barisThemir">
+    <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
+  </a>
+  <!-- Sağ: Commit Streak Kartı -->
+  <a href="https://github.com/barisThemir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisThemir&theme=radical&border_radius=10&background=0D0D15&title=00FF99&ring=ff007f&fire=00FF99&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+</p>
+
+<br>
+
+<!-- 3. TERMINAL BROADCAST (DİNAMİK MESAJLAR) -->
 <h3 align="center">📻 TERMINAL BROADCAST</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
