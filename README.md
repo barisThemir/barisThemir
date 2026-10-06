@@ -47,7 +47,7 @@
 <p align="center">
   <!-- Sol: Ana İstatistik ve Rank Kartı -->
   <a href="https://github.com/barisThemir">
-    <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&cache_seconds=86400&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
   </a>
   <!-- Sağ: Commit Streak Kartı -->
   <a href="https://github.com/barisThemir">
