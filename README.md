@@ -77,8 +77,7 @@
 
 <hr style="border: 1px dashed #00FF99;">
 <p align="center">
-  <!-- Neon Ziyaretçi Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=barisThemir&color=00FF99&style=for-the-badge&label=UNIQUE+VISITORS" alt="Ziyaretçi Sayacı"/>
+  <img src="https://img.shields.io/badge/SECURE_CONNECTION-ESTABLISHED-00FF99?style=for-the-badge&logo=awesomewm&logoColor=black" alt="System Secured" />
 </p>
 <p align="center">
   <code style="color: #00FF99;">// SYSTEM STATUS: FULLY OPERATIONAL // DATA REFRESH: REALTIME //</code>
